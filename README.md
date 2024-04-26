@@ -2,6 +2,8 @@
 
 This repository contains a simple 2D game implemented in Java. The game features a player controlled character navigating through enemies to reach the end.
 
+https://github.com/MUDITJAINN/2D-Java-game/assets/96018877/25dae524-45fa-45df-b495-8ca4852f367e
+
 ### Game Overview
 
 The game consists of several classes:
